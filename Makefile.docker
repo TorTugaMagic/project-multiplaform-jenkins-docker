@@ -1,0 +1,2 @@
+dock: 
+	@echo "For work with docker"
